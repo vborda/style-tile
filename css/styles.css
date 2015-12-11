@@ -4,34 +4,33 @@
 
 /* Color Palette */
 .color-1 {
-    background: pink;
+    background: navy;
 }
 
 .color-2 {
-    background: blue;
+    background: #F34A53;
 }
 
 .color-3 {
-    background: purple;
+    background: #33D3D6;
 }
 
 /* Textures or Patterns*/
-.pattern-1 {
-    background: url(http://blog.psprint.com/wp-content/uploads/2013/08/Design-Freebies-20-Creative-and-Elegant-Seamless-Floral-Patterns-Google-Chro_2013-08-20_07-4.png);
-}
+
 
 /* Imagery */
-.imagery-1 {
-    background: url(http://cdn.sheknows.com/articles/2013/04/Photo_1.jpg);
-    width: 600px;
-    height: 320px;
-}
 
 /* Icons */
 
 
 /* Typography */
+h2 {
+    font-family: 'Gafata', sans-serif;
+}
 
+h3 {
+    font-family: 'Merriweather', serif;
+}
 
 /* Forms */
 
